@@ -362,7 +362,7 @@
       "properties": {
         "objectid": 1,
         "id": 1,
-        "name": "Area 1",
+        "name": "PA 1-3",
         "areal": 21514,
         "sjoareal": 11546,
         "sjoareal_gl": 3581,
@@ -564,7 +564,7 @@
       "properties": {
         "objectid": 2,
         "id": 2,
-        "name": "Area 2",
+        "name": "PA 4-6",
         "areal": 41675,
         "sjoareal": 18040,
         "sjoareal_gl": 5615,
@@ -797,7 +797,7 @@
       "properties": {
         "objectid": 4,
         "id": 4,
-        "name": "Area 3",
+        "name": "PA 7-9",
         "areal": 22795,
         "sjoareal": 11114,
         "sjoareal_gl": 4970,
@@ -969,7 +969,7 @@
       "properties": {
         "objectid": 5,
         "id": 5,
-        "name": "Area 4",
+        "name": "PA 10-12",
         "areal": 15892,
         "sjoareal": 7943,
         "sjoareal_gl": 4654,
